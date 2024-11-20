@@ -28,7 +28,7 @@ To set up and run the Crypto Dashboard locally, follow these steps:
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/Colyzo466/crypto-dashboard.git
 cd crypto-dashboard
 ```
 
@@ -101,5 +101,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## **Contact**
 For inquiries, suggestions, or issues, feel free to reach out via:
-- **Email**: your.email@example.com
-- **GitHub Issues**: Open an issue [here](https://github.com/yourusername/crypto-dashboard/issues).
+- **Email**: colyzo466@gmail.com
+- **GitHub Issues**: Open an issue [here](https://github.com/Colyzo466/crypto-dashboard/issues).
